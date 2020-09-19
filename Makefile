@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Length and Weight convertor
+PROJECT_NAME = LengthandWeightconvertor
 
 # Output directory
 BUILD = build
